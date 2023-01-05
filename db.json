@@ -1,54 +1,54 @@
 {
   "jokes": [
-  		    {
-        "id": 0,
-        "question": "Why did the chicken cross the road?",
-        "answer": "To get to the other side.",
+    {
+      "id": 0,
+      "question": "Why did the chicken cross the road?",
+      "answer": "To get to the other side."
     },
     {
-        "id": 1,
-        "question": "What do you call a pig that does karate?",
-        "answer": "A pork chop.",
+      "id": 1,
+      "question": "What do you call a pig that does karate?",
+      "answer": "A pork chop."
     },
-	    {
-        "id": 2,
-        "question": "Why did the bike fall over?",
-        "answer": "It was two tired.",
+    {
+      "id": 2,
+      "question": "Why did the bike fall over?",
+      "answer": "It was two tired."
     },
-	    {
-        "id": 3,
-        "question": "Why did the golfer bring spare trousers?",
-        "answer": "In case he got a hole in one.",
+    {
+      "id": 3,
+      "question": "Why did the golfer bring spare trousers?",
+      "answer": "In case he got a hole in one."
     },
-	    {
-        "id": 4,
-        "question": "Why did Emma give the pony a glass of water?",
-        "answer": "Because it was a little horse.",
+    {
+      "id": 4,
+      "question": "Why did Emma give the pony a glass of water?",
+      "answer": "Because it was a little horse."
     },
-	    {
-        "id": 5,
-        "question": "Why did the scarecrow win an award?",
-        "answer": "He was outstanding in his field.",
+    {
+      "id": 5,
+      "question": "Why did the scarecrow win an award?",
+      "answer": "He was outstanding in his field."
     },
-		    {
-        "id": 6,
-        "question": "What do you call fake spaghetti?",
-        "answer": "An im-pasta.",
+    {
+      "id": 6,
+      "question": "What do you call fake spaghetti?",
+      "answer": "An im-pasta."
     },
-		    {
-        "id": 7,
-        "question": "Why do bees have sticky hair?",
-        "answer": "Because they use honeycombs.",
+    {
+      "id": 7,
+      "question": "Why do bees have sticky hair?",
+      "answer": "Because they use honeycombs."
     },
-		    {
-        "id": 8,
-        "question": "What do you call a factory that produces adequate products?",
-        "answer": "A satisfactory.",
+    {
+      "id": 8,
+      "question": "What do you call a factory that produces adequate products?",
+      "answer": "A satisfactory."
     },
-			    {
-        "id": 9,
-        "question": "How do you organise a space party?",
-        "answer": "You planet.",
-    },
+    {
+      "id": 9,
+      "question": "How do you organise a space party?",
+      "answer": "You planet."
+    }
   ]
 }
